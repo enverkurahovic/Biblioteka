@@ -1,0 +1,19 @@
+Skinuti Na Drugom Racunaru:
+Java JDK https://www.oracle.com/java/technologies/downloads/?utm_source=chatgpt.com#jdk26-windows x64 Installer (Download site link) Moze se nalaziti i kao !!!NetaBeans + Java JDK!!! onda se skida samo to 
+Apache NetBeans https://netbeans.apache.org/front/main/download/index.html?utm_source (Download site link)
+XAMPP https://www.apachefriends.org/download.html?utm_source=chatgpt.com (Download site link)
+!!!OBAVEZNO!!!
+
+Nakon skidanja programa
+
+Korak 1
+Ukljuciti XAMPP pokrenuti Apache i MySQL (kliknuti START dugme)
+nakon toga pored MySQL kliknuti dugme ADMIN pokrenuce se phpMyAdmin na google pretrazivacu to je sql baza podataka 
+
+Korak 2
+kada se pokrene phpMyAdmin kliknuti NEW na mestu gde pise Database name napisati ime baze kao sto je nazvata u dokumentu koji je npr NAZIV.sql(bez .sql molim vasss) kliknuti dugme CREATE 
+kada se pojavi ta baza sa vase leve strane kliknuti je nakon toga pritisnuti dugme IMPORT izabrati Choose File i naci fajl koji je NAZIV.sql u folderu 
+
+Korak 3
+Pokrenuti Apache NetBeans unutar njega pritsnuti ctrl+shift+o ili kliknuti open folder naci folder koji je vas zadatak i otvoriti testirati zeleno dugme tj. RUN dugme i to bi bilo to
+
