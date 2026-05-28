@@ -15,5 +15,4 @@ kada se pokrene phpMyAdmin kliknuti NEW na mestu gde pise Database name napisati
 kada se pojavi ta baza sa vase leve strane kliknuti je nakon toga pritisnuti dugme IMPORT izabrati Choose File i naci fajl koji je NAZIV.sql u folderu 
 
 Korak 3
-Pokrenuti Apache NetBeans unutar njega pritsnuti ctrl+shift+o ili kliknuti open folder naci folder koji je vas zadatak i otvoriti testirati zeleno dugme tj. RUN dugme i to bi bilo to
-
+Pokrenuti Apache NetBeans unutar njega pritsnuti IMPORT ZIP i browser i naci folder koji je vas zadatak otvoriti testirati zeleno dugme tj. RUN dugme i to bi bilo to (ako vam se projekat ne prikazuje klikni dugme WINDOW pored TOOLS I HELP)
