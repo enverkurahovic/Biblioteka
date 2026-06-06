@@ -1,6 +1,5 @@
 Skinuti Na Drugom Racunaru:
-Java JDK https://www.oracle.com/java/technologies/downloads/?utm_source=chatgpt.com#jdk26-windows x64 Installer (Download site link) Moze se nalaziti i kao !!!NetaBeans + Java JDK!!! onda se skida samo to 
-Apache NetBeans https://netbeans.apache.org/front/main/download/index.html?utm_source (Download site link)
+Apache NetBeans https://www.codelerity.com/netbeans/ (Download site link)
 XAMPP https://www.apachefriends.org/download.html?utm_source=chatgpt.com (Download site link)
 !!!OBAVEZNO!!!
 
